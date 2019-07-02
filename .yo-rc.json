@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.octo.aflmc",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "AFLMC",
+    "packageName": "com.octo.aflmc",
+    "packageFolder": "com/octo/aflmc",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDhiMjRhMTY0YTc3ZDdmZTMwY2EwYWI3MGZiNjAwNDAyY2Y5NTZkZjNhYjU5ODNkYTI3MWY2Y2ZhNjY4Yjg3ZDkyOTQwMmMxOGYxNGIxZDI2M2JlNDk3NzU1MjRmNTY5OTk3YjRiZWE5ZmY5OTAxNDM4YjczNmVhMjM5MjVmZTQ=",
+    "clientFramework": "react",
+    "clientTheme": "journal",
+    "clientThemeVariant": "primary",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "hi"]
+  }
+}
